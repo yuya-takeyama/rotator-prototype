@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6fdf208.chunk.css",
-    "main.js": "/static/js/main.ddf7e976.chunk.js",
-    "main.js.map": "/static/js/main.ddf7e976.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.be8939d4.js",
-    "runtime-main.js.map": "/static/js/runtime-main.be8939d4.js.map",
-    "static/js/2.6fa93071.chunk.js": "/static/js/2.6fa93071.chunk.js",
-    "static/js/2.6fa93071.chunk.js.map": "/static/js/2.6fa93071.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.2789f95c7b7fc93108ec9b0a2a2c432a.js": "/precache-manifest.2789f95c7b7fc93108ec9b0a2a2c432a.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.e6fdf208.chunk.css.map": "/static/css/main.e6fdf208.chunk.css.map",
-    "static/js/2.6fa93071.chunk.js.LICENSE.txt": "/static/js/2.6fa93071.chunk.js.LICENSE.txt"
+    "main.css": "https://yuya-takeyama.github.io/rotator-prototype/static/css/main.e6fdf208.chunk.css",
+    "main.js": "https://yuya-takeyama.github.io/rotator-prototype/static/js/main.f79fef5f.chunk.js",
+    "main.js.map": "https://yuya-takeyama.github.io/rotator-prototype/static/js/main.f79fef5f.chunk.js.map",
+    "runtime-main.js": "https://yuya-takeyama.github.io/rotator-prototype/static/js/runtime-main.19f09ec0.js",
+    "runtime-main.js.map": "https://yuya-takeyama.github.io/rotator-prototype/static/js/runtime-main.19f09ec0.js.map",
+    "static/js/2.6fa93071.chunk.js": "https://yuya-takeyama.github.io/rotator-prototype/static/js/2.6fa93071.chunk.js",
+    "static/js/2.6fa93071.chunk.js.map": "https://yuya-takeyama.github.io/rotator-prototype/static/js/2.6fa93071.chunk.js.map",
+    "index.html": "https://yuya-takeyama.github.io/rotator-prototype/index.html",
+    "precache-manifest.dd274becf630168e875f1ef0c2bc7492.js": "https://yuya-takeyama.github.io/rotator-prototype/precache-manifest.dd274becf630168e875f1ef0c2bc7492.js",
+    "service-worker.js": "https://yuya-takeyama.github.io/rotator-prototype/service-worker.js",
+    "static/css/main.e6fdf208.chunk.css.map": "https://yuya-takeyama.github.io/rotator-prototype/static/css/main.e6fdf208.chunk.css.map",
+    "static/js/2.6fa93071.chunk.js.LICENSE.txt": "https://yuya-takeyama.github.io/rotator-prototype/static/js/2.6fa93071.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.be8939d4.js",
+    "static/js/runtime-main.19f09ec0.js",
     "static/js/2.6fa93071.chunk.js",
     "static/css/main.e6fdf208.chunk.css",
-    "static/js/main.ddf7e976.chunk.js"
+    "static/js/main.f79fef5f.chunk.js"
   ]
 }
