@@ -7,12 +7,6 @@
   pointer-events: none;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -35,4 +29,29 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+table {
+  margin: 0.5em;
+}
+
+tr td {
+  border: 1px #fff solid;
+  padding: 0.5em;
+}
+
+tr.current {
+  background-color: #f00;
+}
+
+tr.skipped {
+  background-color: #61dafb;
+}
+
+pre.react-state {
+  font-size: 12px;
+  text-align: left;
+  width: 400px;
+  height: 400px;
+  overflow-x: scroll;
 }
